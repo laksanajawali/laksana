@@ -1,0 +1,25 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 50px;
+    color: #ff4500;
+}
+
+p {
+    font-size: 30px;
+    color: #1e90ff;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #ff4500;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+    cursor: pointer;
+}
